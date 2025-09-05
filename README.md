@@ -17,28 +17,21 @@ I’m currently pursuing my **B.S. in Computer Science at UCLA (’27)** and see
 
 Here are a few projects I’m proud of (check out the pinned repos!):  
 
-- **[Journal Buddy](https://github.com/ethanplee24/journal-buddy)**  
+- **[Journal Buddy](https://github.com/EthanLee101/journal-buddy)**  
   *Next.js, TypeScript, Supabase, PostgreSQL, OpenAI API*  
   - Built an AI-powered journaling platform scaling to 300+ users with 99.8% uptime  
   - Engineered vector search with Pinecone to analyze 1,000+ entries, boosting retention by 60%  
 
-- **[Bruin Plan](https://github.com/ethanplee24/bruin-plan)**  
+- **[Bruin Plan](https://github.com/kouseph/BruinPlan)**  
   *MERN Stack, Google OAuth, MongoDB*  
   - Architected app processing 15,000+ course combos to optimize student schedules  
   - Reduced conflicts by 35% with a custom dynamic programming algorithm  
 
-- **[IoT Pet Feeder System](https://github.com/ethanplee24/iot-pet-feeder)**  
+- **[IoT Pet Feeder System](https://github.com/EthanLee101/pet-feeder-project)**  
   *C++, REST API, React, Arduino*  
   - Designed RESTful API linking frontend and IoT hardware, serving 100+ daily requests  
   - Optimized WebSocket connections for real-time device control (<2s latency)  
 
----
-
-## 📊 GitHub Stats  
-
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanLee101&show_icons=true&theme=gruvbox)  
-
----
 
 ## 🧰 Skills  
 
